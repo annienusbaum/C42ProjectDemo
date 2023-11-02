@@ -1,0 +1,15 @@
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/bin/Debug/net7.0/C42ProjectDemo
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/bin/Debug/net7.0/C42ProjectDemo.deps.json
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/bin/Debug/net7.0/C42ProjectDemo.runtimeconfig.json
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/bin/Debug/net7.0/C42ProjectDemo.dll
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/bin/Debug/net7.0/C42ProjectDemo.pdb
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/obj/Debug/net7.0/C42ProjectDemo.csproj.AssemblyReference.cache
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/obj/Debug/net7.0/C42ProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/obj/Debug/net7.0/C42ProjectDemo.AssemblyInfoInputs.cache
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/obj/Debug/net7.0/C42ProjectDemo.AssemblyInfo.cs
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/obj/Debug/net7.0/C42ProjectDemo.csproj.CoreCompileInputs.cache
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/obj/Debug/net7.0/C42ProjectDemo.dll
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/obj/Debug/net7.0/refint/C42ProjectDemo.dll
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/obj/Debug/net7.0/C42ProjectDemo.pdb
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/obj/Debug/net7.0/C42ProjectDemo.genruntimeconfig.cache
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/C42ProjectDemo/obj/Debug/net7.0/ref/C42ProjectDemo.dll

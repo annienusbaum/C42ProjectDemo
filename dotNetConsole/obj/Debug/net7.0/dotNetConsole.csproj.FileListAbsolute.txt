@@ -1,0 +1,15 @@
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/bin/Debug/net7.0/dotNetConsole
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/bin/Debug/net7.0/dotNetConsole.deps.json
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/bin/Debug/net7.0/dotNetConsole.runtimeconfig.json
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/bin/Debug/net7.0/dotNetConsole.dll
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/bin/Debug/net7.0/dotNetConsole.pdb
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/obj/Debug/net7.0/dotNetConsole.csproj.AssemblyReference.cache
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/obj/Debug/net7.0/dotNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/obj/Debug/net7.0/dotNetConsole.AssemblyInfoInputs.cache
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/obj/Debug/net7.0/dotNetConsole.AssemblyInfo.cs
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/obj/Debug/net7.0/dotNetConsole.csproj.CoreCompileInputs.cache
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/obj/Debug/net7.0/dotNetConsole.dll
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/obj/Debug/net7.0/refint/dotNetConsole.dll
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/obj/Debug/net7.0/dotNetConsole.pdb
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/obj/Debug/net7.0/dotNetConsole.genruntimeconfig.cache
+/Users/annienusbaum/Desktop/repos/C42ProjectDemo/dotNetConsole/obj/Debug/net7.0/ref/dotNetConsole.dll
